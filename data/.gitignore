@@ -3,3 +3,6 @@
 /Posts.tsv
 /Posts-test.tsv
 /Posts-train.tsv
+/matrix-train.p
+/matrix-test.p
+/model.p
