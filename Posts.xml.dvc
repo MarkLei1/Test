@@ -1,0 +1,12 @@
+md5: bd8b3bb89f4af9e186c17d639fda09bb
+cmd: unzip data/Posts.xml.zip -d data/
+wdir: .
+deps:
+- md5: ec1d2935f811b77cc49b031b999cbf17
+  path: data/Posts.xml.zip
+outs:
+- md5: c1fa36d90caa8489a317eee917d8bf03
+  path: data/Posts.xml
+  cache: true
+  metric: false
+  persist: false
